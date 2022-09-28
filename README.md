@@ -1,4 +1,4 @@
-# @ice/plugin-i18n
+# <plugin-name>
 
 ## Install
 
