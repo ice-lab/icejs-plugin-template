@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ES2020",
+    "jsx": "react",
+    "baseUrl": "./",
+    "rootDir": "src",
+    "outDir": "esm",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "declaration": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true
+  },
+  "include": ["src"]
+}
