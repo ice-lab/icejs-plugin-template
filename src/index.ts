@@ -1,6 +1,6 @@
 import path from 'path';
 import { fileURLToPath } from 'url';
-import type { Plugin } from '@ice/types';
+import type { Plugin } from '@ice/app/esm/types';
 
 const plugin: Plugin = () => ({
   name: '<plugin-name>',
